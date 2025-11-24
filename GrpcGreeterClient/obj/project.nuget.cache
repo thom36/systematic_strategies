@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "t2T9fj1R0rY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\localuser\\Documents\\GitHub\\systematic_strategies\\GrpcGreeterClient\\GrpcGreeterClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\localuser\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",
+    "C:\\Users\\localuser\\.nuget\\packages\\google.protobuf\\3.28.0\\google.protobuf.3.28.0.nupkg.sha512",
+    "C:\\Users\\localuser\\.nuget\\packages\\grpc.core.api\\2.65.0\\grpc.core.api.2.65.0.nupkg.sha512",
+    "C:\\Users\\localuser\\.nuget\\packages\\grpc.net.client\\2.65.0\\grpc.net.client.2.65.0.nupkg.sha512",
+    "C:\\Users\\localuser\\.nuget\\packages\\grpc.net.common\\2.65.0\\grpc.net.common.2.65.0.nupkg.sha512",
+    "C:\\Users\\localuser\\.nuget\\packages\\grpc.tools\\2.66.0\\grpc.tools.2.66.0.nupkg.sha512",
+    "C:\\Users\\localuser\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512",
+    "C:\\Users\\localuser\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\localuser\\.nuget\\packages\\pricinglibrary\\2.0.5\\pricinglibrary.2.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

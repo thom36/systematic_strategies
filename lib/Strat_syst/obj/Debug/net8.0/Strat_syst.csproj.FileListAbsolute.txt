@@ -1,0 +1,13 @@
+C:\Users\localuser\Documents\GitHub\systematic_strategies\lib\Strat_syst\obj\Debug\net8.0\Strat_syst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\localuser\Documents\GitHub\systematic_strategies\lib\Strat_syst\obj\Debug\net8.0\Strat_syst.AssemblyInfoInputs.cache
+C:\Users\localuser\Documents\GitHub\systematic_strategies\lib\Strat_syst\obj\Debug\net8.0\Strat_syst.AssemblyInfo.cs
+C:\Users\localuser\Documents\GitHub\systematic_strategies\lib\Strat_syst\obj\Debug\net8.0\Strat_syst.csproj.CoreCompileInputs.cache
+C:\Users\localuser\Documents\GitHub\systematic_strategies\lib\Strat_syst\bin\Debug\net8.0\MarketDataFeed\sample_market.csv
+C:\Users\localuser\Documents\GitHub\systematic_strategies\lib\Strat_syst\bin\Debug\net8.0\Strat_syst.deps.json
+C:\Users\localuser\Documents\GitHub\systematic_strategies\lib\Strat_syst\bin\Debug\net8.0\Strat_syst.dll
+C:\Users\localuser\Documents\GitHub\systematic_strategies\lib\Strat_syst\bin\Debug\net8.0\Strat_syst.pdb
+C:\Users\localuser\Documents\GitHub\systematic_strategies\lib\Strat_syst\obj\Debug\net8.0\Strat_syst.csproj.AssemblyReference.cache
+C:\Users\localuser\Documents\GitHub\systematic_strategies\lib\Strat_syst\obj\Debug\net8.0\Strat_syst.dll
+C:\Users\localuser\Documents\GitHub\systematic_strategies\lib\Strat_syst\obj\Debug\net8.0\refint\Strat_syst.dll
+C:\Users\localuser\Documents\GitHub\systematic_strategies\lib\Strat_syst\obj\Debug\net8.0\Strat_syst.pdb
+C:\Users\localuser\Documents\GitHub\systematic_strategies\lib\Strat_syst\obj\Debug\net8.0\ref\Strat_syst.dll

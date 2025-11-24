@@ -1,0 +1,6 @@
+C:\Users\localuser\Documents\GitHub\systematic_strategies\GrpcGreeter\obj\Debug\net8.0\GrpcGreeter.csproj.AssemblyReference.cache
+C:\Users\localuser\Documents\GitHub\systematic_strategies\GrpcGreeter\obj\Debug\net8.0\GrpcGreeter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\localuser\Documents\GitHub\systematic_strategies\GrpcGreeter\obj\Debug\net8.0\GrpcGreeter.AssemblyInfoInputs.cache
+C:\Users\localuser\Documents\GitHub\systematic_strategies\GrpcGreeter\obj\Debug\net8.0\GrpcGreeter.AssemblyInfo.cs
+C:\Users\localuser\Documents\GitHub\systematic_strategies\GrpcGreeter\obj\Debug\net8.0\GrpcGreeter.csproj.CoreCompileInputs.cache
+C:\Users\localuser\Documents\GitHub\systematic_strategies\GrpcGreeter\obj\Debug\net8.0\GrpcGreeter.MvcApplicationPartsAssemblyInfo.cache
